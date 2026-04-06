@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Arte y comunicacion",
     "description": "",
-    "home_page_url": "https://github.com/mariouski/art-com",
-    "feed_url": "https://github.com/mariouski/art-com/feed.json",
+    "home_page_url": "https://Mariouski.github.io/art-com",
+    "feed_url": "https://Mariouski.github.io/art-com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Carlos Herrera"
     },
     "items": [
         {
-            "id": "https://github.com/mariouski/art-com/composicion-sonora.html",
-            "url": "https://github.com/mariouski/art-com/composicion-sonora.html",
+            "id": "https://Mariouski.github.io/art-com/composicion-sonora.html",
+            "url": "https://Mariouski.github.io/art-com/composicion-sonora.html",
             "title": "Composicion sonora",
             "author": {
                 "name": "Carlos Herrera"

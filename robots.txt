@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/mariouski/art-com/sitemap.xml
+Sitemap: https://Mariouski.github.io/art-com/sitemap.xml
