@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Arte y comunicacion</title>
-    <link href="https://mariouski.github.io/art-com/feed.xml" rel="self" />
-    <link href="https://mariouski.github.io/art-com" />
+    <link href="https://mario.github.io/art-com/feed.xml" rel="self" />
+    <link href="https://mario.github.io/art-com" />
     <updated>2026-04-06T11:42:59-05:00</updated>
     <author>
         <name>Carlos Herrera</name>
     </author>
-    <id>https://mariouski.github.io/art-com</id>
+    <id>https://mario.github.io/art-com</id>
 
     <entry>
         <title>Composicion sonora</title>
         <author>
             <name>Carlos Herrera</name>
         </author>
-        <link href="https://mariouski.github.io/art-com/composicion-sonora.html"/>
-        <id>https://mariouski.github.io/art-com/composicion-sonora.html</id>
+        <link href="https://mario.github.io/art-com/composicion-sonora.html"/>
+        <id>https://mario.github.io/art-com/composicion-sonora.html</id>
 
         <updated>2026-04-06T11:42:59-05:00</updated>
             <summary></summary>
